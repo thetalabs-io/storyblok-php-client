@@ -8,7 +8,7 @@
     "require": {
         "php": ">=7.1.0",
         "guzzlehttp/guzzle": "^6.0",
-        "symfony/cache": "^4.0|^5.0|^6.0",
+        "symfony/cache": "^3.0|^4.0|^5.0|^6.0",
         "ext-json": "*"
     },
     "require-dev": {
